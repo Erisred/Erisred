@@ -5,7 +5,7 @@
 Yep, this is the stock page... I save my creativity for elsewhere!
 
 - 🔭 I’m currently working on ... an [Obsidian](https://obsidian.md/) PKB, and starting a blog, meant for personal use, mainly
-- 🌱 I’m currently learning ... Jekyll
+- 🌱 I’m currently (re)learning ... TiddlyWiki
 - 👯 I’m looking to collaborate on ... Unsure. Haven't even done a 'first time PR' repo. That's where I'll go first - someday.
 - 🤔 I’m looking for help with ... Nothing, currently - but I'm sure I'll find a forum somewhere when I do.
 - 💬 Ask me about ... 4-H and Horses!
