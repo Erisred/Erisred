@@ -14,6 +14,10 @@ description: My first website
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/images/images/malitovinv.png
 
+url: https://erisred.github.io/
+
+# Prob not needed since im using the base repo baseurl: Erisred
+
 defaults:
   - scope:
       path: ""
