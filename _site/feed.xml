@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-25T13:38:51-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Repo name</title><subtitle>My first website</subtitle><author><name>My name</name></author><entry><title type="html">Kiwifruit</title><link href="http://localhost:4000/2018/08/25/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-25T00:00:00-05:00</published><updated>2018-08-25T00:00:00-05:00</updated><id>http://localhost:4000/2018/08/25/kiwifruit</id><content type="html" xml:base="http://localhost:4000/2018/08/25/kiwifruit.html"><![CDATA[<p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
+berry of several species of woody vines in the genus Actinidia.</p>
+
+<p>The most common cultivar group of kiwifruit is oval, about the size of a large
+hen’s egg (5–8 cm (2.0–3.1 in) in length and 4.5–5.5 cm (1.8–2.2 in) in
+diameter). It has a fibrous, dull greenish-brown skin and bright green or
+golden flesh with rows of tiny, black, edible seeds. The fruit has a soft
+texture, with a sweet and unique flavor.</p>]]></content><author><name>My name</name></author><category term="testtag" /><summary type="html"><![CDATA[oh, man this is good stuff]]></summary></entry><entry><title type="html">Apples</title><link href="http://localhost:4000/2018/08/21/apples.html" rel="alternate" type="text/html" title="Apples" /><published>2018-08-21T00:00:00-05:00</published><updated>2018-08-21T00:00:00-05:00</updated><id>http://localhost:4000/2018/08/21/apples</id><content type="html" xml:base="http://localhost:4000/2018/08/21/apples.html"><![CDATA[<p>An apple is a sweet, edible fruit produced by an apple tree.</p>
+
+<p>Apple trees are cultivated worldwide, and are the most widely grown species in
+the genus Malus. The tree originated in Central Asia, where its wild ancestor,
+Malus sieversii, is still found today. Apples have been grown for thousands of
+years in Asia and Europe, and were brought to North America by European
+colonists.</p>]]></content><author><name>My name</name></author><summary type="html"><![CDATA[a page about apples for real?]]></summary></entry><entry><title type="html">Bananas</title><link href="http://localhost:4000/2018/05/21/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2018-05-21T00:00:00-05:00</published><updated>2018-05-21T00:00:00-05:00</updated><id>http://localhost:4000/2018/05/21/bananas</id><content type="html" xml:base="http://localhost:4000/2018/05/21/bananas.html"><![CDATA[<p>A banana is an edible fruit – botanically a berry – produced by several kinds
+of large herbaceous flowering plants in the genus Musa.</p>
+
+<p>In some countries, bananas used for cooking may be called “plantains”,
+distinguishing them from dessert bananas. The fruit is variable in size, color,
+and firmness, but is usually elongated and curved, with soft flesh rich in
+starch covered with a rind, which may be green, yellow, red, purple, or brown
+when ripe.</p>
+
+<h1>One last thing as a trial. Remove before publishing!!!</h1>
+<p>I want to know how code is rendered here.</p>
+<p>This is <code>&lt;p&gt;This is a paragraph written in a code block, inline&lt;/p&gt;</code></p>
+<p>Next will be a complete block:</p>
+<pre><code>
+    var thing = another thing
+    document.getInnerHTML(function())
+    or some css
+    body {
+        color: #cc6714;
+    }
+
+</code></pre>
+
+<table>
+  <thead>
+    <tr>
+      <th>header</th>
+      <th>one</th>
+      <th>Two</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>data</td>
+      <td>inside</td>
+      <td>the</td>
+    </tr>
+    <tr>
+      <td>table</td>
+      <td>looks</td>
+      <td>nice</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>My name</name></author><category term="testtag" /><summary type="html"><![CDATA[all about bananas]]></summary></entry></feed>
