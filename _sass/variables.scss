@@ -48,4 +48,8 @@
     --color-code-text: var(color-text);
     --color-code-border: transparent;
     --color-code-accent: var(--color-text);
+    --color-table-text: var(--color-text);
+    --color-table-head-bg: rgb(20,20,20);
+    --color-table-accent: rgb(25,25,25);
+    --color-table-border: rgb(60,60,60);
   }
