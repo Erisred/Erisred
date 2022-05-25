@@ -30,6 +30,7 @@
     --color-table-head-bg: rgb(180,180,180);
     --color-table-accent: rgb(230,235,235);
     --color-table-border: rgb(200,200,200);
+    --color-table-bg: var(--color-bg);
   }
   
   body.light-theme {
@@ -50,6 +51,7 @@
     --color-code-accent: var(--color-text);
     --color-table-text: var(--color-text);
     --color-table-head-bg: rgb(20,20,20);
-    --color-table-accent: rgb(25,25,25);
-    --color-table-border: rgb(60,60,60);
+    --color-table-accent: rgb(100,100,100);
+    --color-table-border: rgb(20,20,20);
+    --color-table-bg: var(--color-bg);
   }
