@@ -1,2 +1,47 @@
-title: Working title
-description: Not sure what to call this yet
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: Repo name
+
+# Name of the author
+author: My name
+
+# Short bio or description (displayed in the header)
+description: My first website
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: /assets/images/images/malitovinv.png
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: 
+  facebook:
+  flickr:
+  github: erisred/
+  instagram:
+  linkedin: 
+  pinterest:
+  rss: rss
+  twitter: 
+  stackoverflow: 
+  youtube: # channel/<your_long_string> or user/<user-name>
+  playconsole:

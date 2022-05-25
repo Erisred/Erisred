@@ -1,0 +1,10 @@
+/* put the footer at the bottom when there's less content */
+main {
+    min-height: calc(100vh - 210px);
+  }
+  
+  footer {
+    height: 50px;
+    text-align: right;
+  }
+  

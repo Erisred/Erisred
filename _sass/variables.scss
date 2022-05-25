@@ -1,0 +1,51 @@
+
+:root {
+    --active-brightness: 0.85;
+    --border-radius: 5px;
+    --box-shadow: 2px 2px 10px;
+    --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    --hover-brightness: 1.2;
+    --justify-important: center;
+    --justify-normal: left;
+    --line-height: 1.5;
+    --width-card: 285px;
+    --width-card-medium: 460px;
+    --width-card-wide: 800px;
+    --width-content: 1080px;
+    --color-text: #000;
+    --color-text-secondary: #999;
+    --color: #118bee;
+    --color-accent: #118bee15;
+    --color-bg: #fff;
+    --color-bg-secondary: #e9e9e9;
+    --color-link: var(--color-text);/*#118bee;*/
+    --color-secondary: #9f9ed3;/*#920de9;*/
+    --color-secondary-accent: #920de90b;
+    --color-shadow: #f4f4f4;
+    --color-code-bg: rgb(220,220,220);
+    --color-code-text: var(color-text);
+    --color-code-border: transparent;
+    --color-code-accent: var(--color-text);
+    --color-table-text: var(--color-text);
+    --color-table-head-bg: rgb(180,180,180);
+    --color-table-accent: rgb(230,235,235);
+    --color-table-border: rgb(200,200,200);
+  }
+  
+  body.light-theme {
+    --color: #0097fc;
+    --color-accent: #0097fc4f;
+    --color-bg: #333;
+    --color-bg-secondary: #555;
+    --color-link: var(--color-text);/*#0097fc;*/
+    --color-secondary: #9f9ed3;/*#e20de9;*/
+    --color-secondary-accent: #e20de94f;
+    --color-shadow: #bbbbbb20;
+    --color-table: #0097fc; 
+    --color-text: #f7f7f7;
+    --color-text-secondary: #aaa;
+    --color-code-bg: rgb(40,40,40);
+    --color-code-text: var(color-text);
+    --color-code-border: transparent;
+    --color-code-accent: var(--color-text);
+  }
