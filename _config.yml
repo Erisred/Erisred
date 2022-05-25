@@ -15,8 +15,7 @@ description: My first website
 avatar: /assets/images/images/malitovinv.png
 
 url: https://erisred.github.io/
-
-# Prob not needed since im using the base repo baseurl: Erisred
+baseurl: /Erisred
 
 defaults:
   - scope:
