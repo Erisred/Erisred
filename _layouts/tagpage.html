@@ -5,13 +5,15 @@ layout: default
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 col-md-10 mx-auto">
-				<h1>Tag: {{ page.tag }}</h1>
-				{{ content }}
+				<h1>{{ page.tag | upcase}}</h1>
+				These are posts that are tagged with the <b>{{ page.tag }}</b> tag.
 				<hr>
 			</div>
 		</div>
 	<div>
 </header>
+
+{{ content }}
 
 <div class="container">
 	<div class="row">

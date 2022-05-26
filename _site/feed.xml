@@ -1,17 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/Erisred/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Erisred/" rel="alternate" type="text/html" /><updated>2022-05-25T20:51:21-05:00</updated><id>http://localhost:4000/Erisred/feed.xml</id><title type="html">Repo name</title><subtitle>My first website</subtitle><author><name>My name</name></author><entry><title type="html">Kiwifruit</title><link href="http://localhost:4000/Erisred/2018/08/25/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-25T00:00:00-05:00</published><updated>2018-08-25T00:00:00-05:00</updated><id>http://localhost:4000/Erisred/2018/08/25/kiwifruit</id><content type="html" xml:base="http://localhost:4000/Erisred/2018/08/25/kiwifruit.html"><![CDATA[<p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/Erisred/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Erisred/" rel="alternate" type="text/html" /><updated>2022-05-26T15:00:31-05:00</updated><id>http://localhost:4000/Erisred/feed.xml</id><title type="html">Erisred’s notes</title><subtitle>We&apos;ll see what happens</subtitle><author><name>Erisred</name></author><entry><title type="html">Initial post</title><link href="http://localhost:4000/Erisred/2022/05/26/InitialSetup.html" rel="alternate" type="text/html" title="Initial post" /><published>2022-05-26T00:00:00-05:00</published><updated>2022-05-26T00:00:00-05:00</updated><id>http://localhost:4000/Erisred/2022/05/26/InitialSetup</id><content type="html" xml:base="http://localhost:4000/Erisred/2022/05/26/InitialSetup.html"><![CDATA[<h1 id="a-start">A start</h1>
+<p>I have to start somewhere, so here goes…</p>
+
+<h3 id="my-journey-in-brief">My journey, in brief</h3>
+<ul>
+  <li>OMG, I can do <em>what</em> on a web browser? Using <a href="https://www.w3schools.com/">W3Schools</a> as a guide, I tinkered for a while, but soon realized I needed some hand-on learning.</li>
+  <li>Enter <a href="https://thenewboston.com/">thenewboston</a>, back before it embraced the blockchain (?) - when Bucky worried about web design and bacon. I watched and participated in almost all of the tutorials there. I still have most of the homework on an old drive - somewhere. I loved this site, and the way everything was <strong>fun</strong>.</li>
+  <li>Sometime later I discovered <a href="https://tiddlywiki.com/">Tiddlywiki</a>, and it started some real thoughts about creating something lasting. I definitely wanted a wiki, but also started a journaling habit I continue even now, albeit in a different form.</li>
+  <li>I stumbled on <a href="https://x10hosting.com/">X10 Hosting</a>, which has a really good free tier with a full working cPanel and apps. I still use this for some of my hosting needs.</li>
+  <li>Using X10, I installed an instance of <a href="https://www.dokuwiki.org/dokuwiki">DokuWiki</a> that I kept going for a long time before updates broke some things I wasn’t interested in fixing.</li>
+  <li>I then bounced between DokuWiki, TiddlyWiki, and a static site for a little bit.</li>
+  <li>Enter Git and Github. Another shiny way to host a site. Of course, that meant learning Jekyll, which was foreign to me at the time. Still is, TBH, but I now know enough to get by.</li>
+  <li>Oh, boy. Now comes PKM. OneNote, Evernote, Google Keep, Trello, Zenkit, Joplin and a host of others. I got on the Roam train, but not for long. There was too much to it, and nothing seemed intuitive. This of course led to plaintext, markdown, dendron, foam - and my current resting point, <a href="https://obsidian.md/">Obsidian</a>.</li>
+  <li>I’ve stuck with Obsidian longer than anything else - over 2 years, now. I love the openness of it, but also the plaintext/markdown boundaries that keep me grounded. My saving grace was when I decided to delete my own theme, and stick to a couple of community ones. I then took an oath to keep my snippets very minimal so I don’t feel the need to customize. It’s about content, dammit.</li>
+</ul>
+
+<h3 id="thats-great-so-why-the-soliloquy">That’s great, so why the soliloquy?</h3>
+<p>So, it turns out I can do a lot with the internet now. I have a decent note-taking system, and am learning al the time. I like having all my “stuff” available to me everywhere. However, I don’t want all of that to be public. I have a journal, some personal data, and all kinds of stuff smattered throughout. Also, I’m cheap and like to tinker.</p>
+
+<p>So now to the <em>what went wrong</em> part. I set up a site, and tweak everything - base pages, tags, collections, styling, <em>everything</em>. By the time everything is how I want it, it’s a little less shiny, or something broke along the way (usually self-induced). I need something simpler that mostly works out of the box and allows for simple content hosting. Less variables = less problems.</p>
+
+<p>I also never published from my PKM, because of the indecision. What is this? Do I need it in multiple places? I kept trying to define things, but never really settled.</p>
+
+<h3 id="what-ill-do-this-time">What I’ll do this time</h3>
+<p>No guarantees it’ll work, but here goes…</p>
+
+<p>I made a simple framework/template using a basic Jekyll setup. In fact, I just followed the <a href="https://jekyllrb.com/docs/step-by-step/01-setup/">step-by-step</a> tutorial from Jekyll as a starting point. Then, since I like how minimal it is, I incorporated a slightly modified version of the <a href="https://andybrewer.github.io/mvp/">MVP.css</a> style. No frills, no fancy stuff, and it works fairly well. I indulged long enough just to get a dark/light theme switcher going. Everything else is going to be developed as-needed, not as-I-think-of-it.</p>
+
+<p>Also, I’ll define things better, and set some intentions.</p>
+
+<h3 id="intentions">Intentions</h3>
+<p>I believe I need to set expectations and definitions at the start.
+What goes where?</p>
+<ul>
+  <li>My PKM will continue to house personal details: product manuals, house plans, projects, journals. Drafts and most content will almost always <em>start in the PKM, until ready to be published</em>.</li>
+  <li>How-to things that I might need on the run, or may benefit others: winterize my boat, service the lawn mower.</li>
+</ul>
+
+<h3 id="conclusion">Conclusion</h3>
+<p>Here is a first post to break the ice and set some ground rules. Let’s see what happens.</p>]]></content><author><name>Erisred</name></author><category term="pin" /><category term="PKM" /><category term="productivity" /><category term="testtag" /><summary type="html"><![CDATA[Initial setup and first post]]></summary></entry><entry><title type="html">Kiwifruit</title><link href="http://localhost:4000/Erisred/2018/08/25/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-25T00:00:00-05:00</published><updated>2018-08-25T00:00:00-05:00</updated><id>http://localhost:4000/Erisred/2018/08/25/kiwifruit</id><content type="html" xml:base="http://localhost:4000/Erisred/2018/08/25/kiwifruit.html"><![CDATA[<p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
 berry of several species of woody vines in the genus Actinidia.</p>
 
 <p>The most common cultivar group of kiwifruit is oval, about the size of a large
 hen’s egg (5–8 cm (2.0–3.1 in) in length and 4.5–5.5 cm (1.8–2.2 in) in
 diameter). It has a fibrous, dull greenish-brown skin and bright green or
 golden flesh with rows of tiny, black, edible seeds. The fruit has a soft
-texture, with a sweet and unique flavor.</p>]]></content><author><name>My name</name></author><category term="testtag" /><summary type="html"><![CDATA[oh, man this is good stuff]]></summary></entry><entry><title type="html">Apples</title><link href="http://localhost:4000/Erisred/2018/08/21/apples.html" rel="alternate" type="text/html" title="Apples" /><published>2018-08-21T00:00:00-05:00</published><updated>2018-08-21T00:00:00-05:00</updated><id>http://localhost:4000/Erisred/2018/08/21/apples</id><content type="html" xml:base="http://localhost:4000/Erisred/2018/08/21/apples.html"><![CDATA[<p>An apple is a sweet, edible fruit produced by an apple tree.</p>
+texture, with a sweet and unique flavor.</p>]]></content><author><name>Erisred</name></author><summary type="html"><![CDATA[oh, man this is good stuff]]></summary></entry><entry><title type="html">Apples</title><link href="http://localhost:4000/Erisred/2018/08/21/apples.html" rel="alternate" type="text/html" title="Apples" /><published>2018-08-21T00:00:00-05:00</published><updated>2018-08-21T00:00:00-05:00</updated><id>http://localhost:4000/Erisred/2018/08/21/apples</id><content type="html" xml:base="http://localhost:4000/Erisred/2018/08/21/apples.html"><![CDATA[<p>An apple is a sweet, edible fruit produced by an apple tree.</p>
 
 <p>Apple trees are cultivated worldwide, and are the most widely grown species in
 the genus Malus. The tree originated in Central Asia, where its wild ancestor,
 Malus sieversii, is still found today. Apples have been grown for thousands of
 years in Asia and Europe, and were brought to North America by European
-colonists.</p>]]></content><author><name>My name</name></author><summary type="html"><![CDATA[a page about apples for real?]]></summary></entry><entry><title type="html">Bananas</title><link href="http://localhost:4000/Erisred/2018/05/21/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2018-05-21T00:00:00-05:00</published><updated>2018-05-21T00:00:00-05:00</updated><id>http://localhost:4000/Erisred/2018/05/21/bananas</id><content type="html" xml:base="http://localhost:4000/Erisred/2018/05/21/bananas.html"><![CDATA[<p>A banana is an edible fruit – botanically a berry – produced by several kinds
+colonists.</p>]]></content><author><name>Erisred</name></author><summary type="html"><![CDATA[a page about apples for real?]]></summary></entry><entry><title type="html">Bananas</title><link href="http://localhost:4000/Erisred/2018/05/21/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2018-05-21T00:00:00-05:00</published><updated>2018-05-21T00:00:00-05:00</updated><id>http://localhost:4000/Erisred/2018/05/21/bananas</id><content type="html" xml:base="http://localhost:4000/Erisred/2018/05/21/bananas.html"><![CDATA[<p>A banana is an edible fruit – botanically a berry – produced by several kinds
 of large herbaceous flowering plants in the genus Musa.</p>
 
 <p>In some countries, bananas used for cooking may be called “plantains”,
@@ -74,4 +113,4 @@ when ripe.</p>
       <td>nice</td>
     </tr>
   </tbody>
-</table>]]></content><author><name>My name</name></author><category term="testtag" /><summary type="html"><![CDATA[all about bananas]]></summary></entry></feed>
+</table>]]></content><author><name>Erisred</name></author><summary type="html"><![CDATA[all about bananas]]></summary></entry></feed>
