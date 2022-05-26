@@ -3,8 +3,9 @@ tags: [pin, PKM, productivity, testtag]
 description: "Initial setup and first post"
 title: Initial post
 ---
-# A start
 I have to start somewhere, so here goes...
+
+# A start
 
 ### My journey, in brief
 - OMG, I can do _what_ on a web browser? Using [W3Schools](https://www.w3schools.com/) as a guide, I tinkered for a while, but soon realized I needed some hand-on learning.
