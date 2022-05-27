@@ -1,5 +1,5 @@
 ---
-tags: [pin, PKM, productivity, testtag]
+tags: [pin, PKM, productivity]
 description: "Initial setup and first post"
 title: Initial post
 ---
