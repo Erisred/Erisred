@@ -12,7 +12,7 @@ var toggleText = document.getElementById("btn-toggle");
 if (currentTheme == "light") {
   // ...then use the .dark-theme class
   document.body.classList.add("light-theme");
-  toggleText.innerHTML = "Dark mode";
+  //toggleText.innerHTML = "Dark mode";
 }
 
 // Listen for a click on the button 

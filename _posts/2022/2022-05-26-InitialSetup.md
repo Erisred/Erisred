@@ -2,6 +2,7 @@
 tags: [pin, PKM, productivity]
 description: "Initial setup and first post"
 title: Initial post
+published: 2022-05-26
 ---
 I have to start somewhere, so here goes...
 
