@@ -6,7 +6,7 @@ published: 2023-02-11
 ---
 This is all new.
 
-# I can't recall if markdown works or not.
-This *might* look really weird, or it might be **just** fine.
+<h2>I can't recall if markdown works or not.</h2>
+This *might* look really weird, or it might be just fine.
 
 On to the next thing, just again for testing. Again.
