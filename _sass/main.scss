@@ -112,7 +112,7 @@ nav {
 }
 
 nav a {text-decoration: none;}
-nav a:hover {text-decoration:underline 2px}
+nav a:hover {text-decoration:underline 2px;}
 
 nav ul {
   width: 100%;
@@ -239,11 +239,11 @@ sup {
 }
 
 /* Links */
-a {
+a, a:visited {
   color: var(--color-link);
   display: inline-block;
   font-weight: normal;
-  text-decoration: underline 2px var(--color-text-secondary);
+  text-decoration: underline 1px var(--color-text-secondary);
 }
 
 a:active {
