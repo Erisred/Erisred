@@ -15,7 +15,7 @@ description: We'll see what happens
 avatar: /assets/images/images/malitovinv.png
 
 url: https://erisred.github.io
-baseurl: /Erisred
+baseurl: /
 
 defaults:
   - scope:
